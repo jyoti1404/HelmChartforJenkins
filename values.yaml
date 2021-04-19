@@ -1,0 +1,4 @@
+replicaCount: 1
+mountPath: /var/jenkins_vol
+port: 8080
+nodePort: 30000
